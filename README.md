@@ -1,5 +1,4 @@
-# SpringSecurityCustomLoginUsingHibernate
-Spring security custom login and authenticating in database using hibernate
+# Spring security custom login and authenticating in database using hibernate
 
 This project is all about implementing Spring Security with custom login in your Spring MVC web application to secure a URL access with database authentication using hibernate.
 
